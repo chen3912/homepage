@@ -6,7 +6,8 @@ slug: /Research
 items:
   - title: JMP
     description: <strong>Monetary Policy, Debt Structure, and Credit Reallocation </strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3705848" target="_blank">SSRN</a>]
-    publication: <strong>Conditionally Accepted at the Journal of Finance</strong>
+    authors: Yuchen Chen
+    publication: <strong><i>Conditionally Accepted at the Journal of Finance</i></strong>
     numbering: 1
     award: CICF Yihong Xia Best Paper Awards
   - title: Extrapolation
