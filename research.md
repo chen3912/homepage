@@ -22,7 +22,7 @@ items:
     authors: With <a href="https://sites.google.com/view/juliana-salomao/home" target="_blank">Juliana Salomao</a>, <a href="https://www.sharmav.com/" target="_blank">Varun Sharma</a>, and <a href = "https://yicheng-wang-fina.github.io/" target="_blank">Yicheng Wang</a>
     numbering: 4
     - title: Invisiblehand
-    description: <strong>The Invisible Hand: Managerial Allocation and Business Productivity</strong> 
+    description: <strong>The Invisible Hand&#58; Managerial Allocation and Business Productivity</strong> 
     authors: With <a href ="https://sites.google.com/site/cwardweb/" target="_blank">Colin Ward</a>
     numbering: 5
   - title: TechVC
