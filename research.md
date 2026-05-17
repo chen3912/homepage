@@ -5,7 +5,7 @@ slug: /Research
 
 items:
   - title: JMP
-    description: <strong>Monetary Policy, Debt Structure, and Credit Reallocation </strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3705848" target="_blank">SSRN</a>]  Conditionally Accepted at the Journal of Finance
+    description: <strong>Monetary Policy, Debt Structure, and Credit Reallocation </strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3705848" target="_blank">SSRN</a>]  <strong>Conditionally Accepted at the Journal of Finance</strong>
     numbering: 1
     award: CICF Yihong Xia Best Paper Awards
   - title: Extrapolation
