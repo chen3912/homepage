@@ -15,7 +15,7 @@ profile_picture:
 <strong>Research interests</strong>
 
 <p>
-  Macro-Finance, Asset Pricing, Structual Corporate, and Monetary Policy
+  Macro-Finance, Firm Dynamics, Labor Finance, and Monetary Policy
 </p>
 
 <p>
