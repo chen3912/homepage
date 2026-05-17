@@ -38,6 +38,7 @@ items:
   - title: AppropriatedGrowth
     description: <strong>Appropriated Growth</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4244951" target="_blank">SSRN</a>]
     authors: With <a href="https://xuelinli.com/" target="_blank">Xuelin Li</a>, <a href="https://sites.google.com/site/richardthakor/" target="_blank">Richard T. Thakor</a>, and <a href ="https://sites.google.com/site/cwardweb/" target="_blank">Colin Ward</a>
+    publication: <strong><i>Journal of Financial Economics, Volume 176 (February 2026)</i></strong>
     numbering: 1
   - title: OSER
     description: <strong>The One Standard Error Rule&#58; How Well Does It Work?</strong> [<a href="https://www.mdpi.com/2571-905X/4/4/51/htm" target="_blank">PDF</a>]     (Master Thesis</a>)
