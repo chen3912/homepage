@@ -33,18 +33,16 @@ items:
     description: <strong>Capital Misallocation and Risk Sharing</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521553" target="_blank">SSRN</a>]
     authors: With <a href="https://www.hengjieai.com/" target="_blank">Hengjie Ai</a>, <a href="http://www.bhandarianmol.com/" target="_blank">Anmol Bhandari</a>, and <a href = "https://chaoy.weebly.com/" target="_blank">Chao Ying</a>
     numbering: 7
-
-items:
   - title: AppropriatedGrowth
     description: <strong>Appropriated Growth</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4244951" target="_blank">SSRN</a>]
     authors: With <a href="https://xuelinli.com/" target="_blank">Xuelin Li</a>, <a href="https://sites.google.com/site/richardthakor/" target="_blank">Richard T. Thakor</a>, and <a href ="https://sites.google.com/site/cwardweb/" target="_blank">Colin Ward</a>
     publication: <strong><i>Journal of Financial Economics, Volume 176 (February 2026)</i></strong>
-    numbering: 1
+    numbering: 8
   - title: OSER
     description: <strong>The One Standard Error Rule&#58; How Well Does It Work?</strong> [<a href="https://www.mdpi.com/2571-905X/4/4/51/htm" target="_blank">PDF</a>]     (Master Thesis</a>)
     authors: With <a href="http://users.stat.umn.edu/~yangx374/" target="_blank">Yuhong Yang</a>
     publication: <strong><i>Stats</i></strong>, 4(4)&#58; 868-892
-    numbering: 2
+    numbering: 9
 
    
 
