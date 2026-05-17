@@ -16,7 +16,6 @@ items:
     description: <strong>Do Bankers Matter for Main Street? The Financial Intermediary Labor Channel</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4106828" target="_blank">SSRN</a>]
     authors: With <a href = "https://sites.google.com/site/jackfavilukis/home" target="_blank">Jack Favilukis</a>, <a href = "https://sites.google.com/a/umn.edu/xiaojilin/" target="_blank">Xiaoji Lin</a>, and <a href = "http://xiaofeizhao.org/" target="_blank">Xiaofei Zhao</a>
     numbering: 3
-    award: CFRI Research Excellence Award, 2022 CIRF
   - title: GranularMarkups
     description: <strong>Granular Markups and Inflation Surge&#58; The Role of Managerial Incentives</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5369179" target="_blank">SSRN</a>]
     authors: With <a href="https://sites.google.com/view/juliana-salomao/home" target="_blank">Juliana Salomao</a>, <a href="https://www.sharmav.com/" target="_blank">Varun Sharma</a>, and <a href = "https://yicheng-wang-fina.github.io/" target="_blank">Yicheng Wang</a>
