@@ -17,6 +17,11 @@ items:
     authors: With <a href = "https://sites.google.com/site/jackfavilukis/home" target="_blank">Jack Favilukis</a>, <a href = "https://sites.google.com/a/umn.edu/xiaojilin/" target="_blank">Xiaoji Lin</a>, and <a href = "http://xiaofeizhao.org/" target="_blank">Xiaofei Zhao</a>
     numbering: 3
     award: CFRI Research Excellence Award, 2022 CIRF
+ - title: BankLS
+    description: <strong>Do Bankers Matter for Main Street? The Financial Intermediary Labor Channel</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4106828" target="_blank">SSRN</a>]
+    authors: With <a href = "https://sites.google.com/site/jackfavilukis/home" target="_blank">Jack Favilukis</a>, <a href = "https://sites.google.com/a/umn.edu/xiaojilin/" target="_blank">Xiaoji Lin</a>, and <a href = "http://xiaofeizhao.org/" target="_blank">Xiaofei Zhao</a>
+    numbering: 4
+
 
 
     
