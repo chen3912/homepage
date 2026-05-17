@@ -18,7 +18,6 @@ items:
     numbering: 3
     award: CFRI Research Excellence Award, 2022 CIRF
   - title: GranularMarkups
-    description: <strong>Granular Markups and Inflation Surge: The Role of Managerial Incentives</strong> 
     numbering: 4
 
 
