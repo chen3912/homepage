@@ -17,18 +17,7 @@ items:
     authors: With <a href = "https://sites.google.com/site/jackfavilukis/home" target="_blank">Jack Favilukis</a>, <a href = "https://sites.google.com/a/umn.edu/xiaojilin/" target="_blank">Xiaoji Lin</a>, and <a href = "http://xiaofeizhao.org/" target="_blank">Xiaofei Zhao</a>
     numbering: 3
     award: CFRI Research Excellence Award, 2022 CIRF
-  - title: Invisiblehand
-    description: <strong>The Invisible Hand: Managerial Allocation and Business Productivity</strong> 
-    authors: With <a href ="https://sites.google.com/site/cwardweb/" target="_blank">Colin Ward</a>
-    numbering: 5
-  - title: TechVC
-    description: <strong>Technology Literacy and Deep-Tech Investment: Evidence from VC Industry</strong> 
-    authors: With <a href ="https://sites.google.com/view/canhuang" target="_blank">Can Huang</a>, and <a href ="https://www.xuelaili.com/" target="_blank">Xuelai Li</a>
-    numbering: 6    
-  - title: CapitalMisalc
-    description: <strong>Capital Misallocation and Risk Sharing</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521553" target="_blank">SSRN</a>]
-    authors: With <a href="https://www.hengjieai.com/" target="_blank">Hengjie Ai</a>, <a href="http://www.bhandarianmol.com/" target="_blank">Anmol Bhandari</a>, and <a href = "https://chaoy.weebly.com/" target="_blank">Chao Ying</a>
-    numbering: 7
+
 
     
     
