@@ -5,41 +5,36 @@ slug: /Research
 
 items:
   - title: JMP
-    description: <strong>Monetary Policy, Debt Structure, and Credit Reallocation </strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3705848" target="_blank">SSRN</a>]  
+    description: <strong>Monetary Policy, Debt Structure, and Credit Reallocation </strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3705848" target="_blank">SSRN</a>]  Conditionally Accepted at the Journal of Finance
     numbering: 1
-    award: Semifinalist for Corporate Finance Best Paper, 2021 FMA Annual Meeting
-    coverage: Selected Presentations&#58; AFA 2022; Stanford SITE 2022; New York Fed 2022; NFA 2022 Ph.D session; Summer Institute of Finance 2022; EWMES 2021; 18th Macro Finance Society PhD Session; MFA 2021; FMA 2021
-    abstract: Unexpected monetary tightening predicts a contraction in aggregate corporate bonds but an expansion in bank loans. Using micro-data, I demonstrate that large and high rated firms with high collateral value and low default risk rebalance towards bank loans and away from corporate bonds, as the relative spread of bond over loan increases. This demand-side "credit substitution channel" and firm heterogeneity together explain the aggregate evidence. I develop a heterogeneous-agent New Keynesian model where bank loans are senior and safer (collateralized) than defaultable bonds but issued at a greater intermediation cost. My model can quantitatively explain the response of corporate bonds and bank loans with respect to monetary policy surprises. An interest rate hike raises default risk and thus the relative cost of bond financing. In response, large and unconstrained firms substitute bank loans for corporate bond, while constrained firms tend to issue more equity. The redistribution effect of this credit substitution channel amplifies the negative effects of interest rate hike on welfare and investment by 8% and 14%, respectively.
+    award: CICF Yihong Xia Best Paper Awards
   - title: Extrapolation
-    description: <strong>Monetary Policy, Extrapolation Bias, and Investment</strong> 
-    authors: Yuchen Chen
+    description: <strong>Monetary Policy, Diagnostic Expectation, and Customer Capital</strong>[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4106828" target="_blank">SSRN</a>] 
+    authors: With <a href = "https://yicheng-wang-fina.github.io/" target="_blank">Yicheng Wang 
     numbering: 2
-    abstract: This paper studies the redistributive effects of earning extrapolation bias on the transmission of monetary policy. Empirically, over-pessimistic firms with lower earning forecasts have higher investment elasticity to monetary shocks in the advertising-intensive industries. I develop a heterogeneous-agent New Keynesian model to quantify the effects of extrapolation bias in a frictional product market, where firms extrapolate over idiosyncratic productivity news when making decisions on physical investment and customer acquisition. The model implies that firm-level overreaction amplifies the effects of monetary easing. It generates an increase in aggregate productivity as capital flows to high markup firms. Moreover, the rise in aggregate output is underestimated by 57% if we assume rational expectation.
   - title: BankLS
     description: <strong>Do Bankers Matter for Main Street? The Financial Intermediary Labor Channel</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4106828" target="_blank">SSRN</a>]
     authors: With <a href = "https://sites.google.com/site/jackfavilukis/home" target="_blank">Jack Favilukis</a>, <a href = "https://sites.google.com/a/umn.edu/xiaojilin/" target="_blank">Xiaoji Lin</a>, and <a href = "http://xiaofeizhao.org/" target="_blank">Xiaofei Zhao</a>
     numbering: 3
     award: CFRI Research Excellence Award, 2022 CIRF
-    coverage: Presentations&#58; Boston College*, CICF 2022, CIRF 2022, BI Norwegian Business School 2022*, SFS Cavalcade 2022, UT Austin 2022*, AFA 2022, MFA 2020, UMN brown bag 2019, University of Texas A&M 2019*
-    abstract: Financial intermediary (FI) stress, measured by leverage and equity constraints, is emphasized as an important driver of asset prices and quantities by financial economists. We identify a new and equally important channel through which FIs affect risk and the real sector&#58; FIs are stressed when their labor share is high. FI labor share negatively forecasts growth of aggregate output, investment, and credit; it positively forecasts market excess returns and cost of credit. In the cross-section, banks with higher labor share lend less and have higher credit risk. Firms connected to such banks borrow less, pay more to borrow, have higher credit risk, and lower earnings growth; they also invest less if they are financially constrained. We explain these findings in a DSGE model where FIs face shocks to the quantity of labor needed to intermediate capital.	
+  - title: Markups
+    description: <strong>Granular Markups and Inflation Surge: The Role of Managerial Incentives</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5369179" target="_blank">SSRN</a>]
+    authors: With <a href="https://sites.google.com/view/juliana-salomao/home" target="_blank">Juliana Salomao</a>, <a href="https://www.sharmav.com/" target="_blank">Varun Sharma</a>, and <a href = "https://yicheng-wang-fina.github.io/" target="_blank">Yicheng Wang</a>
+    numbering: 4
+  - title: Invisiblehand
+    description: <strong>The Invisible Hand: Managerial Allocation and Business Productivity</strong> 
+    authors: With <a href ="https://sites.google.com/site/cwardweb/" target="_blank">Colin Ward</a>
+    numbering: 5
+  - title: TechVC
+    description: <strong>Technology Literacy and Deep-Tech Investment: Evidence from VC Industry</strong> 
+    authors: With <a href ="https://sites.google.com/view/canhuang" target="_blank">Can Huang</a>, and <a href ="https://www.xuelaili.com/" target="_blank">Xuelai Li</a>
+    numbering: 6    
   - title: CapitalMisalc
     description: <strong>Capital Misallocation and Risk Sharing</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521553" target="_blank">SSRN</a>]
     authors: With <a href="https://www.hengjieai.com/" target="_blank">Hengjie Ai</a>, <a href="http://www.bhandarianmol.com/" target="_blank">Anmol Bhandari</a>, and <a href = "https://chaoy.weebly.com/" target="_blank">Chao Ying</a>
-    numbering: 4
-    coverage: Presentations&#58; Peking University 2021*, WFA 2020*, SED 2019*, FTG-Tepper 2019*, FTG summer school 2019 (Wharton), EIEF 2019*, Minneapolis Fed 2019*, UMN brown bag 2019, U Toronto 2019*
-    abstract: We develop an optimal contracting model in which limited enforcement of financial contracts generates dispersion in marginal products of capital across firms. We show that the optimal contract can be implemented using state-contingent transfers and a simple collateral constraint that limits the capital input of firms by a fraction of the financial wealth of the firm owner. Compared to models with exogenous collateral constraint and incomplete markets (for example Moll (2014)), we find that the degree of measured misallocation is increasing in the persistence of the idiosyncratic productivity shocks. Under the optimal contract, the possibility to transfer wealth from high productivity states to low productivity states allows firm owners to trade off efficient allocation of consumption against the efficient allocation of capital. We show that for reasonable values of risk aversion, insurance needs more than offset production efficiency concerns.
-  - title: AppropriatedGrowth
-    description: <strong>Appropriated Growth</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4244951" target="_blank">SSRN</a>]
-    authors: With <a href="https://xuelinli.com/" target="_blank">Xuelin Li</a>, <a href="https://sites.google.com/site/richardthakor/" target="_blank">Richard T. Thakor</a>, and <a href ="https://sites.google.com/site/cwardweb/" target="_blank">Colin Ward</a>
-    numbering: 5
-    coverage: Presentations&#58; Cavalcade 2023 (scheduled), MFA 2023 (scheduled), Midwest Macro Meeting*, UNC Junior Roundtable 2022*, Minnesota Corporate Finance Conference 2022*
-    abstract: Do restrictions on labor mobility inhibit growth? We quantitatively evaluate this question in a dynamic agency model that jointly accounts for investment in intangible capital, knowledge spillovers, and the allocation of rents among investors and agents. Our calibration is disciplined by targeting the responses of employee turnover, firm intangible investment rates, and a novel construction of the values of workers' outside options to state-level changes in the degree of non-compete enforcement. Analysis that studies counterfactual rates of knowledge appropriation finds potential gains to growth of 20 basis points per year from policies that enhance mobility and alleviate agency problems.
-  - title: OSER
-    description: <strong>The One Standard Error Rule&#58; How Well Does It Work?</strong> [<a href="https://www.mdpi.com/2571-905X/4/4/51/htm" target="_blank">PDF</a>]     (Master Thesis</a>)
-    authors: With <a href="http://users.stat.umn.edu/~yangx374/" target="_blank">Yuhong Yang</a>
-    publication: <strong><i>Stats</i></strong>, 4(4)&#58; 868-892
-    numbering: 6
-    abstract: Previous research provided a lot of discussion on the selection of regularization parameters when it comes to the application of regularization methods for high-dimensional regression. The popular "One Standard Error Rule" (1se rule) used with cross validation (CV) is to select the most parsimonious model whose prediction error is not much worse than the minimum CV error. This paper examines the validity of the 1se rule from a theoretical angle and also studies its estimation accuracy and performances in applications of regression estimation and variable selection, particularly for Lasso in a regression framework. Our theoretical result shows that when a regression procedure produces the regression estimator converging relatively fast to the true regression function, the standard error estimation formula in the 1se rule is justified asymptotically. The numerical results show the following&#58; 1. the 1se rule in general does not necessarily provide a good estimation for the intended standard deviation of the cross validation error. The estimation bias can be 50–100% upwards or downwards in various situations; 2. the results tend to support that 1se rule usually outperforms the regular CV in sparse variable selection and alleviates the over-selection tendency of Lasso; 3. in regression estimation or prediction, the 1se rule often performs worse. In addition, comparisons are made over two real data sets&#58; Boston Housing Prices (large sample size n, small/moderate number of variables p) and Bardet–Biedl data (large p, small n). Data guided simulations are done to provide insight on the relative performances of the 1se rule and the regular CV.
+    numbering: 7
+
+    
     
 
 
