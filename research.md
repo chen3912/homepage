@@ -20,7 +20,7 @@ items:
     description: <strong>Granular Markups and Inflation Surge&#58; The Role of Managerial Incentives</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5369179" target="_blank">SSRN</a>]
     authors: With <a href="https://sites.google.com/view/juliana-salomao/home" target="_blank">Juliana Salomao</a>, <a href="https://www.sharmav.com/" target="_blank">Varun Sharma</a>, and <a href = "https://yicheng-wang-fina.github.io/" target="_blank">Yicheng Wang</a>
     numbering: 4
-    - title: Invisiblehand
+  - title: Invisiblehand
     description: <strong>The Invisible Hand&#58; Managerial Allocation and Business Productivity</strong> 
     authors: With <a href ="https://sites.google.com/site/cwardweb/" target="_blank">Colin Ward</a>
     numbering: 5
