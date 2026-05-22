@@ -11,7 +11,7 @@ items:
     numbering: 1
     award: CICF Yihong Xia Best Paper Awards
   - title: Extrapolation
-    description: <strong>Monetary Policy, Diagnostic Expectation, and Customer Capital</strong>[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4106828" target="_blank">SSRN</a>] 
+    description: <strong>Monetary Policy, Diagnostic Expectation, and Customer Capital</strong>[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5180297" target="_blank">SSRN</a>] 
     authors: With <a href = "https://yicheng-wang-fina.github.io/" target="_blank">Yicheng Wang 
     numbering: 2
   - title: BankLS
